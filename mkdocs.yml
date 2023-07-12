@@ -1,0 +1,8 @@
+site_name: My Doc
+site_url: https://novemberraindocs.com/
+nav:
+    - Home: index.md
+    - 'HAAS':
+      - 'Tables': tables.md
+    - About: about.md
+theme: readthedocs
